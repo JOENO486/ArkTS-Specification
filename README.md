@@ -1,1 +1,1 @@
-# ArkTS-Specification
+# ArkTS-Sta Spec Release
